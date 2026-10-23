@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg?v=3" width="100%" alt="Yusuf Seydul — hareketli ağ bağlantıları" />
+  <img src="https://raw.githubusercontent.com/YusufSeydul/YusufSeydul/0e6e7deea0398cd1910a6aea747219245a8dbb45/assets/profile-header.svg" width="100%" alt="Yusuf Seydul — hareketli ağ bağlantıları" />
 </p>
 
 <br>
