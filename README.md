@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YusufSeydul/YusufSeydul/0e6e7deea0398cd1910a6aea747219245a8dbb45/assets/profile-header.svg" width="100%" alt="Yusuf Seydul — hareketli ağ bağlantıları" />
+  <img src="https://raw.githubusercontent.com/YusufSeydul/YusufSeydul/89fa31d2b550794f46d20d10cc1ca620b5f6d1c4/assets/profile-header.svg" width="100%" alt="Yusuf Seydul — hareketli ağ bağlantıları" />
 </p>
 
 <br>
 
-Ağların nasıl çalıştığı ve sunucuların nasıl kurulduğu ilgimi çekiyor. Kariyerimi **sistem ve ağ teknolojileri** tarafında şekillendirmek istiyorum.
+Bu profilde projelerimin yanında kurulum notlarını ve karşılaştığım sorunların çözümlerini de paylaşmayı planlıyorum.
 
 <br>
 
