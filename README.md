@@ -1,38 +1,15 @@
 <p align="center">
-  <img src="./assets/profile-header.svg?v=2" width="100%" alt="Yusuf Seydul — ağ bağlantıları üzerinde hareket eden ışıklı veri paketleri" />
+  <img src="./assets/profile-header.svg?v=3" width="100%" alt="Yusuf Seydul — hareketli ağ bağlantıları" />
 </p>
-
-<div align="center">
-
-### Merhaba, ben Yusuf 👋
-
-Bilgisayar mühendisliği **4. sınıf öğrencisiyim**.
-Yeni şeyler öğreniyor, denemeler yapıyor ve kendime uygun alanı keşfediyorum.
-
-Bu profilde projelerimi ve öğrenme sürecimde geliştirdiğim çalışmaları paylaşacağım.
 
 <br>
 
-[![Projelerim](https://img.shields.io/badge/PROJELERİM-161b2e?style=for-the-badge&logo=github&logoColor=66e4df)](https://github.com/YusufSeydul?tab=repositories)
-[![Keşfettiklerim](https://img.shields.io/badge/KEŞFETTİKLERİM-211832?style=for-the-badge&logo=githubsponsors&logoColor=c798ff)](https://github.com/YusufSeydul?tab=stars)
+Ağların nasıl çalıştığı ve sunucuların nasıl kurulduğu ilgimi çekiyor. Kariyerimi **sistem ve ağ teknolojileri** tarafında şekillendirmek istiyorum.
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-### Bağlantıda kalalım
-
-Bir merhaba, yeni bir fikir veya birlikte öğrenmek için.
-
-[![E-posta gönder](https://img.shields.io/badge/E--POSTA-İLETİŞİME_GEÇ-12383f?style=for-the-badge&logo=gmail&logoColor=78eee5&labelColor=101b2b)](mailto:seydul860@gmail.com)
-[![LinkedIn profilim](https://img.shields.io/badge/LINKEDIN-BAĞLANTI_KURALIM-35305f?style=for-the-badge&labelColor=17152b)](https://www.linkedin.com/in/yusufseydul/)
-
-<sub>seydul860@gmail.com · linkedin.com/in/yusufseydul</sub>
-
-<br><br>
-
-<sub>Merak et. Dene. Geliştir.</sub>
-
-</div>
+<p align="center">
+  <a href="https://github.com/YusufSeydul?tab=repositories"><img src="https://img.shields.io/badge/PROJELER-161b2e?style=for-the-badge&amp;logo=github&amp;logoColor=66e4df" alt="Projeler" /></a>
+  <a href="mailto:seydul860@gmail.com"><img src="https://img.shields.io/badge/E--POSTA-12383f?style=for-the-badge&amp;logo=gmail&amp;logoColor=78eee5" alt="E-posta gönder" /></a>
+  <a href="https://www.linkedin.com/in/yusufseydul/"><img src="https://img.shields.io/badge/LINKEDIN-35305f?style=for-the-badge" alt="LinkedIn profilim" /></a>
+</p>
