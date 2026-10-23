@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Yusuf Seydul — ağ bağlantıları üzerinde hareket eden ışıklı veri paketleri" />
+  <img src="./assets/profile-header.svg?v=2" width="100%" alt="Yusuf Seydul — ağ bağlantıları üzerinde hareket eden ışıklı veri paketleri" />
 </p>
 
 <div align="center">
